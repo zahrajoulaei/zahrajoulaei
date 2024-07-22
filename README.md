@@ -14,7 +14,5 @@ I'm a frontend web developer with 6 years of experience, specializing in HTML, C
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-joulaei)
-![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+
