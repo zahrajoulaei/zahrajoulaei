@@ -19,5 +19,6 @@ Eager to collaborate with tech companies and startups, learn from industry leade
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-joulaei)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-0078D4?style=flat-square&logo=internet-explorer&logoColor=white)](https://zahrajoulaei.github.io/)
 
 
