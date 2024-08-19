@@ -2,6 +2,13 @@
 
 # Hi there, I'm Zahra 👋
 
+
+![zahrajoulaeilogo](https://github.com/zahrajoulaei/zahrajoulaei/blob/main/logo-black.png)
+
+
+
+
+
 ## 🚀 About Me
 I believe that we are the programmers of our life! So let’s code it! ✨
 I am Zahra, a passionate software engineer specializing in web development, currently graduating from Per Scholas with a focus on Software Engineering in the U.S. With a Master’s degree in Web Engineering and six years of experience in Germany, I excel in creating dynamic and engaging web applications. My expertise spans React, Angular, JavaScript, TypeScript, HTML, and CSS, which I leverage to transform innovative ideas into solutions for complex problems.
