@@ -3,8 +3,6 @@
 # Hi there, I'm Zahra 👋
 
 
-![zahrajoulaeilogo](https://github.com/zahrajoulaei/zahrajoulaei/blob/main/logo-black.png)
-
 
 
 
